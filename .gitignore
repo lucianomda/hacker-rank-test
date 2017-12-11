@@ -1,0 +1,9 @@
+# Macos system files
+.DS_Store
+
+# IntelliJ proyect files
+.idea/
+*.iml
+
+# Java proyect
+target/
