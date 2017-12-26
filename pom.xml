@@ -5,9 +5,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.luciano</groupId>
-	<artifactId>smallexec</artifactId>
+	<artifactId>hacker-rank-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>luciano smallexec</name>
+	<name>luciano hacker-rank-test</name>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -61,7 +61,7 @@
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>1.6.0</version>
 				<configuration>
-					<mainClass>com.luciano.smallexec.Main</mainClass>
+					<mainClass>com.luciano.hackerranktest.Main</mainClass>
 				</configuration>
 			</plugin>
 			<!-- Package an uber jar (executable with all dependencies included). -->
@@ -77,7 +77,7 @@
 							<shadedArtifactAttached>true</shadedArtifactAttached>
 							<transformers>
 								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>com.luciano.smallexec.Main</mainClass>
+									<mainClass>com.luciano.hackerranktest.Main</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
