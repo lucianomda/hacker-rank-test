@@ -1,10 +1,10 @@
 package com.luciano.hackerranktest;
 
-import com.luciano.hackerranktest.java.datastructures.Java1DArray;
+import com.luciano.hackerranktest.java.exceptionhandling.JavaExceptionHandling;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Java1DArray.main(args);
+		JavaExceptionHandling.main(args);
 	}
 }
