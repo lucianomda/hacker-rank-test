@@ -1,11 +1,10 @@
 package com.luciano.hackerranktest.algorithms.warmup;
 
-import java.util.Collections;
 import java.util.Scanner;
 
 /**
  * Solution for:
- *
+ * https://www.hackerrank.com/challenges/staircase/problem
  * Staircase
  *
  * @author lucianomda
