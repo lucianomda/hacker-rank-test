@@ -12,6 +12,7 @@ import java.util.Set;
  * Java Deque
  *
  * @author lucianomda
+ *
  */
 public class JavaDeque {
 

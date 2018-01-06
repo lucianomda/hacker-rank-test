@@ -12,7 +12,6 @@ import java.util.Scanner;
  * @author lucianomda
  *
  */
-
 public class JavaMap {
 
 	private static final String NOT_FOUND = "Not found";

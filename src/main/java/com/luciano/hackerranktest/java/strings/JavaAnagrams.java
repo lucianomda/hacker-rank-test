@@ -10,6 +10,7 @@ import java.util.Scanner;
  * Java Anagrams
  *
  * @author lucianomda
+ *
  */
 public class JavaAnagrams {
 	private static final Integer ZERO = Integer.valueOf(0);

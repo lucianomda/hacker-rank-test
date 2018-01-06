@@ -8,6 +8,7 @@ import java.util.Scanner;
  * Java Static Initializer Block
  *
  * @author lucianomda
+ *
  */
 public class JavaStaticInitializerBlock {
 

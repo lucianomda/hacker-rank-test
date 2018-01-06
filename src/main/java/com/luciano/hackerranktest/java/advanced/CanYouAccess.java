@@ -6,6 +6,14 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 import java.security.Permission;
 
+/**
+ * Solution for:
+ * https://www.hackerrank.com/challenges/can-you-access/problem
+ * Can You Access
+ *
+ * @author lucianomda
+ *
+ */
 public class CanYouAccess {
 
 	public static void main(String[] args) throws Exception {

@@ -3,7 +3,13 @@ package com.luciano.hackerranktest.java.advanced;
 import java.io.File;
 import java.io.FileWriter;
 
+/**
+ * Support class for Java Visitor Pattern problem: {@link JavaVisitorPattern}.
+ *
+ * @author lucianomda
+ */
 public class CreateTestFile {
+
 	public static void createFile(String path) {
 		try {
 

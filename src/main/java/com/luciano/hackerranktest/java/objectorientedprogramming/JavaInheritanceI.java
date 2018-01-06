@@ -25,6 +25,7 @@ class Bird extends Animal
  * Java Inheritance I
  *
  * @author lucianomda
+ *
  */
 public class JavaInheritanceI {
 	public static void main(String args[]){

@@ -6,6 +6,14 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
+/**
+ * Solution for:
+ * https://www.hackerrank.com/challenges/sha-256/problem
+ * Java SHA-256
+ *
+ * @author lucianomda
+ *
+ */
 public class JavaSHA256 {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

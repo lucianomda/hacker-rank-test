@@ -2,6 +2,14 @@ package com.luciano.hackerranktest.algorithms.warmup;
 
 import java.util.Scanner;
 
+/**
+ * Solution for:
+ * https://www.hackerrank.com/challenges/solve-me-first/problem
+ * Solve me first
+ *
+ * @author lucianomda
+ *
+ */
 public class SolveMeFirst {
 
 	static int solveMeFirst(int a, int b) {

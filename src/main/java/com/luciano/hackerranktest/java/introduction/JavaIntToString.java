@@ -9,6 +9,7 @@ import java.util.Scanner;
  * Java Int to String
  *
  * @author lucianomda
+ *
  */
 public class JavaIntToString {
 	public static void main(String[] args) {

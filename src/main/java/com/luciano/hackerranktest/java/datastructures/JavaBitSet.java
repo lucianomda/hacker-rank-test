@@ -9,6 +9,7 @@ import java.util.Scanner;
  * Java Deque
  *
  * @author lucianomda
+ *
  */
 public class JavaBitSet {
 

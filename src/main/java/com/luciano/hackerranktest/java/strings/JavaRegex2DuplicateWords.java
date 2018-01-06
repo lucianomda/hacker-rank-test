@@ -11,6 +11,7 @@ import java.util.regex.Pattern;
  * https://www.hackerrank.com/challenges/duplicate-word/problem
  *
  * @author lucianomda
+ *
  */
 public class JavaRegex2DuplicateWords {
 

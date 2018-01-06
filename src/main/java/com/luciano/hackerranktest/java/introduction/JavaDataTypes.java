@@ -3,6 +3,14 @@ package com.luciano.hackerranktest.java.introduction;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * Solution for
+ * https://www.hackerrank.com/challenges/java-datatypes/problem
+ * Java Data Types
+ *
+ * @author lucianomda
+ *
+ */
 public class JavaDataTypes {
 
 	public static void main(String[] argh) {

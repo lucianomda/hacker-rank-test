@@ -49,6 +49,14 @@ class MyMath {
 }
 /*** End of my code ***/
 
+/**
+ * Solution for:
+ * https://www.hackerrank.com/challenges/java-lambda-expressions/problem
+ * Lambda Expressions
+ *
+ * @author lucianomda
+ *
+ */
 public class JavaLambdaExpressions {
 	public static void main(String[] args) throws IOException {
 		MyMath ob = new MyMath();

@@ -16,6 +16,7 @@ class Adder extends Arithmetic {
  * Java Inheritance II
  *
  * @author lucianomda
+ *
  */
 public class JavaInheritanceII {
 

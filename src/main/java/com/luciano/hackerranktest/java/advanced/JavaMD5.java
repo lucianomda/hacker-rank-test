@@ -6,6 +6,14 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Scanner;
 
+/**
+ * Solution for:
+ * https://www.hackerrank.com/challenges/java-md5/problem
+ * Java MD5
+ *
+ * @author lucianomda
+ *
+ */
 public class JavaMD5 {
 
 	public static void main(String[] args) {

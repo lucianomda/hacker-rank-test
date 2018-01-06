@@ -8,6 +8,7 @@ import java.util.Scanner;
  * Java Loops II
  *
  * @author lucianomda
+ *
  */
 public class JavaLoops2 {
 

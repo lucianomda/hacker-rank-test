@@ -10,6 +10,7 @@ import java.util.Scanner;
  * Java Stack
  *
  * @author lucianomda
+ *
  */
 public class JavaStack {
 
