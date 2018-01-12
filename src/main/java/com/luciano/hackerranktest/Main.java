@@ -1,14 +1,14 @@
 package com.luciano.hackerranktest;
 
-import com.luciano.hackerranktest.algorithms.implementation.BreakingTheRecords;
+import com.luciano.mercadolibre.try0.solution2.Solution;
 
 public class Main {
 
 	public static void main(String[] args) {
 		try {
-			BreakingTheRecords.main(args);
+			Solution.main(args);
 		} catch (Exception e) {
-			System.out.println(e);
+			System.out.println(e.getMessage());
 			e.printStackTrace();
 		}
 	}
