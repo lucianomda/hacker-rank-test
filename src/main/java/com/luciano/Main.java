@@ -1,12 +1,12 @@
-package com.luciano.hackerranktest;
+package com.luciano;
 
-import com.luciano.mercadolibre.try0.solution2.Solution;
+import com.luciano.bairesdev.Anagrams;
 
 public class Main {
 
 	public static void main(String[] args) {
 		try {
-			Solution.main(args);
+			Anagrams.main(args);
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 			e.printStackTrace();
